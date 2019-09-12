@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>Orateur Typographique</title>
-  <link type="text/css" rel='stylesheet' href="style.css">
+  <link type="text/css" rel='stylesheet' href="styletuning.css">
 </head>
 <body>
 
-<!--
+
   
     <svg preserveAspectRatio="none" id="visualizer" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       <defs>
@@ -32,7 +32,7 @@
 
 <script  src="./script.js"></script>
 
--->
+
 
 <!-- 
   <div class="words" id="boitetexte" contenteditable>
